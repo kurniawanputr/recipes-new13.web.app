@@ -1,4 +1,4 @@
-baseURL = "https://goodrecipes13.web.app/"
+baseURL = "https://resepenak13.web.app/"
 languageCode = "en-us"
 title = "Best Recipes"
 theme = "big"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://goodrecipes13.web.app/"
+    homepage = "https://resepenak13.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
