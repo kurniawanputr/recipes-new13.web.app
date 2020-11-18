@@ -1,6 +1,6 @@
 baseURL = "https://resepenak13.web.app/"
-languageCode = "en-us"
-title = "Best Recipes"
+languageCode = "id-id"
+title = "Resep Enak"
 theme = "big"
 
 [taxonomies]
